@@ -1,0 +1,21 @@
+{
+  "name": "tgc9vueproject2game",
+  "version": "1.0.0",
+  "description": "URL: https://github.com/PamelaSohWY/TGC9VueProject2Game by Soh Wei- Yi Pamela",
+  "main": "vue.config.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PamelaSohWY/TGC9VueProject2Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PamelaSohWY/TGC9VueProject2Game/issues"
+  },
+  "homepage": "https://github.com/PamelaSohWY/TGC9VueProject2Game#readme"
+}
